@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Robert"
+  avatar           : "/assets/profile.jpeg"
+  bio              : "I am a PhD in Economics candidate at Universitat Pompeu Fabra in Barcelona. My research lies at the intersection of econometrics and macroeconomics. I am interested in establishing causality in non-experimental settings typical of macroeconomics. I work with time-series and panel data. Methodologically, I am interested in quantile regression, potential outcomes framework, difference-in-differences, local projections and structural vector autoregressions. I use these tools to study various topics from growth-at-risk to firm dynamics."
+  location         : "Barcelona"
+  email            : "robert.wojciechowski@upf.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
