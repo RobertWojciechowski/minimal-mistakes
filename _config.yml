@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Wojciechowski"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profile.jpg"
   bio              : "I am "
   location         : "Somewhere"
   email            :
