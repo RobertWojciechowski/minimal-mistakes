@@ -116,8 +116,9 @@ author:
   name             : "Robert"
   avatar           : "/assets/profile.jpeg"
   bio              : "PhD in Economics candidate" 
-  location         : "Universitat Pompeu Fabra"
-  location         : "Barcelona"
+  locations:
+    - "Universitat Pompeu Fabra"
+    - "Barcelona"
   email            : "robert.wojciechowski@upf.edu"
   links:
     - label: "Twitter"
