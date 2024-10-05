@@ -3,8 +3,6 @@ layout: single
 permalink: /research/
 ---
 
-# Working Papers
-
 ## A Structural Approach to Growth-at-Risk
 
 <button onclick="toggleAbstract('abstract1')">→ Abstract</button> | [Latest version](/assets/GaR.pdf)
