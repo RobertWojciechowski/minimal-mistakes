@@ -116,6 +116,7 @@ author:
   name             : "Robert"
   avatar           : "/assets/profile.jpeg"
   bio              : "PhD in Economics candidate" 
+  location         : "Universitat Pompeu Fabra"
   location         : "Barcelona"
   email            : "robert.wojciechowski@upf.edu"
   links:
@@ -127,7 +128,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/robertonomics"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
