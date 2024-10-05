@@ -3,4 +3,5 @@ layout: single
 title: "CV"
 permalink: /CV/
 ---
-[Download my CV]("assets/CV.pdf")
+
+<embed src="assets/CV.pdf" width="100%" height="600px" type="application/pdf">
