@@ -113,11 +113,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Robert"
+  name             : "Robert Wojciechowski"
   avatar           : "/assets/profile.jpeg"
   bio              : "PhD in Economics candidate" 
   location         : "Universitat Pompeu Fabra"
   email            : "robert.wojciechowski@upf.edu"
+  orcid            : "https://orcid.org/0009-0004-6431-1876" 
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
